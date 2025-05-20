@@ -1,4 +1,4 @@
-**CRED-like App UI - Android Studio**
+ 🚗 **CRED-like App UI - Android Studio**
 
 This repository contains a mock-up UI inspired by the CRED app, built using Android Studio and Kotlin. The design replicates key features such as:
 
@@ -14,13 +14,13 @@ This project serves as a practice exercise for Android UI development, focusing 
 
 **🛠️ Technologies Used**
 
- -Kotlin (Primary language)
+✔ Kotlin (Primary language)
 
- -Android Studio (IDE)
+✔ Android Studio (IDE)
 
- -Jetpack Compose
+✔ Jetpack Compose
 
- -Material Design (For UI components)
+✔ Material Design (For UI components)
 
 **🔧 Features Implemented**
 
