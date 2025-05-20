@@ -12,6 +12,8 @@ Transaction history
 
 This project serves as a practice exercise for Android UI development, focusing on Jetpack Compose (or XML layouts, depending on implementation).
 
+----
+
 **🛠️ Technologies Used**
 
 ✔ Kotlin (Primary language)
@@ -21,6 +23,8 @@ This project serves as a practice exercise for Android UI development, focusing 
 ✔ Jetpack Compose
 
 ✔ Material Design (For UI components)
+
+---
 
 **🔧 Features Implemented**
 
