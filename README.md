@@ -10,7 +10,7 @@ Rewards & benefits (cashback, coins, referral)
 
 Transaction history
 
-This project serves as a practice exercise for Android UI development, focusing on Jetpack Compose (or XML layouts, depending on implementation).
+This project serves as a practice exercise for Android UI development, focusing on Jetpack Compose.
 
 ----
 
